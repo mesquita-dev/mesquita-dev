@@ -1,7 +1,7 @@
   
-<p align="left"> 
+<h2 align="left"> 
   🖖 Olá, sou o Lucas Mesquita<strong>Estudante de Front-End e UI/UX Design</strong>.<br>
-</p>
+</h2>
 
 <p align="left">
   ☕ Linguagens: <strong>HTML, CSS, JavaScript.</strong>

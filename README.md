@@ -1,13 +1,20 @@
-### Olá! Eu sou o Lucas Mesquita. Prazer ter a sua visita em meu perfil! 😀
+  
+<p align="left"> 
+  🖖 Olá, sou o Lucas Mesquita<strong>Estudante de Front-End e UI/UX Design</strong>.<br>
+</p>
 
-- 📖 Estou aprendendo o Front-End e todas as suas tecnologias e também as tecnologias do UI/UX Design.
-- 👯 Procurando uma vaga onde posso demonstrar meus conhecimentos e aprender mais sobre.
+<p align="left">
+  ☕ Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+</p>
 
-<div align="center">
-  <a href="https://github.com/mesquita-dev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mesquita-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesquita-dev&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left">
+  💼 Ferramentas: <strong>VS Code, Figma, Trello e Github.</strong>
+</p>
+
+<p align="left">
+  💌 Você pode entrar em contato comigo pelas redes sociais abaixo.
+</p>
+
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

@@ -1,6 +1,6 @@
   
 <h2 align="left"> 
-  🖖 Hello, I'm Lucas Mesquita.<strong> Student of Front-End and UI/UX Design</strong>.<br>
+  🖖 Hello, I'm Lucas Mesquita.<strong> Front-End Developer and UI/UX Design</strong>.<br>
 </h2>
 
 <p align="left">

@@ -1,18 +1,18 @@
   
 <h2 align="left"> 
-  🖖 Olá, sou o Lucas Mesquita<strong>Estudante de Front-End e UI/UX Design</strong>.<br>
+  🖖 Hello, I'm Lucas Mesquita.<strong> Student of Front-End and UI/UX Design</strong>.<br>
 </h2>
 
 <p align="left">
-  ☕ Linguagens: <strong>HTML, CSS, JavaScript.</strong>
+  ☕ Programming Languages: <strong>HTML, CSS, JavaScript.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>VS Code, Figma, Trello e Github.</strong>
+  💼 Tools: <strong>VS Code, Figma, Trello, Github and Webhost.</strong>
 </p>
 
 <p align="left">
-  💌 Você pode entrar em contato comigo pelas redes sociais abaixo.
+  💌 You can contact me through the social networks below.
 </p>
 
   

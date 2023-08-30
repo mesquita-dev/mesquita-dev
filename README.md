@@ -8,7 +8,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>VS Code, Figma, Trello, Github, RD Station, GIT, Github.</strong>
+  💼 Tools: <strong>VS Code, Figma, Trello, Github, RD Station, GIT/strong>
 </p>
 
 <p align="left">
